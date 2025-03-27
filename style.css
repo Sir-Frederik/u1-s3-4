@@ -13,10 +13,11 @@ body {
   font-weight: bold;
 }
 
-.cella:hover {
-  background-color: deepskyblue;
-}
 .cella p {
   font-size: 18px;
   font-weight: bold;
+}
+
+.selezionata {
+  background-color: deepskyblue;
 }
